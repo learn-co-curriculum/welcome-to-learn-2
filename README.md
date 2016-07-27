@@ -20,4 +20,10 @@ When you're stuck, you can ask a question and get help from a global community o
 
 We expect everyone on Learn to be friendly, respectful, helpful, and nice. Learn is special because of the people like you that make it that way.
 
+<blockquote>
+  <p>MINSWAN: Matz is Nice So We Are Nice</p>
+  <cite>the Ruby Programming Community</cite>
+</blockquote>
+
+
 Click the "I'm Done" and then proceed to the "Next Lesson."
