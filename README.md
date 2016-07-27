@@ -2,6 +2,8 @@
 
 Learn is designed for people who are passionate, curious, and absolutely serious about learning to code. We are on a never ending quest for knowledge and we know there are no shortcuts.
 
+![No Shortcuts](http://learn-co-videos.s3.amazonaws.com/welcome/no-shortcuts.jpg)
+
 The curriculum on Learn makes no assumptions about your previous experience programming. Whether you're about to write your first line of code ever or have a computer science degree we're going to teach you everything you need to know to be a professional software developer. 
 
 The curriculum you'll encounter on Learn is rigorous. Expect it to be a more challenging than other online learning platforms. We don't dumb anything down for you because we believe in your infinite capacity to learn. While challenging, our curriculum is clear, digestible, engaging, and deep. There's going to be reading, videos, and lots of coding ahead. 
