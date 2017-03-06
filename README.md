@@ -6,7 +6,7 @@ Learn is designed for people who are passionate, curious, and absolutely serious
 
 The curriculum on Learn makes no assumptions about your previous experience programming. Whether you're about to write your first line of code ever or have a computer science degree we're going to teach you everything you need to know to be a professional software developer. 
 
-The curriculum you'll encounter on Learn is rigorous. Expect it to be a more challenging than other online learning platforms. We don't dumb anything down for you because we believe in your infinite capacity to learn. While challenging, our curriculum is clear, digestible, engaging, and deep. There's going to be reading, videos, and lots of coding ahead. 
+The curriculum you'll encounter on Learn is rigorous. Expect it to be more challenging than other online learning platforms. We don't dumb anything down for you because we believe in your infinite capacity to learn. While challenging, our curriculum is clear, digestible, engaging, and deep. There's going to be reading, videos, and lots of coding ahead. 
 
 Remember, nothing in the world worth knowing comes easily and you should never get intimidated just because something is hard. Difficult is not impossible and one of the most valuable things you're going to learn about is your limitless ability to overcome challenges. Have patience, all things are foreign before they become familiar.
 
@@ -27,3 +27,4 @@ We expect everyone on Learn to be friendly, respectful, helpful, and nice. Learn
 
 
 Click the "I'm Done" and then proceed to the "Next Lesson."
+<p class='util--hide'>View <a href='https://learn.co/lessons/welcome-to-learn-2'>Why Learn is Different</a> on Learn.co and start learning to code for free.</p>
