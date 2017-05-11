@@ -2,7 +2,7 @@
 
 Learn is designed for people who are passionate, curious, and absolutely serious about learning to code. We are on a never ending quest for knowledge and we know there are no shortcuts.
 
-<img src="http://learn-co-videos.s3.amazonaws.com/welcome/no-shortcuts.png" style="width:100%" />
+<img src="https://learn-co-videos.s3.amazonaws.com/welcome/no-shortcuts.png" style="width:100%" />
 
 The curriculum on Learn makes no assumptions about your previous experience programming. Whether you're about to write your first line of code ever or have a computer science degree we're going to teach you everything you need to know to be a professional software developer. 
 
